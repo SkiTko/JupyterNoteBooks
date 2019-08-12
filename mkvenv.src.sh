@@ -17,3 +17,5 @@ pip install -U numpy==1.16.2
 pip install -U scipy
 pip install -U tensorflow-gpu
 pip install -U matplotlib
+pip install -U pillow
+
