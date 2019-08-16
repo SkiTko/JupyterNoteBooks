@@ -18,4 +18,4 @@ pip install -U scipy
 pip install -U tensorflow-gpu
 pip install -U matplotlib
 pip install -U pillow
-
+pip install -U opencv-python
