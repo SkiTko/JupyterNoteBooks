@@ -1,2 +1,6 @@
+*.h5
+.ipynb_checkpoints
 /5-cat_and_dog_small/
 /5-kaggle-original-data/
+/6-aclImdb/
+/6-glove.6B/
