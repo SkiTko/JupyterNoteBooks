@@ -15,7 +15,7 @@ pyenv activate $PYTHON_VENV_NAME
 pip install -U jupyterlab
 pip install -U numpy==1.16.2
 pip install -U scipy
-pip install -U tensorflow-gpu
+pip install -U tensorflow-gpu==1.14.0
 pip install -U matplotlib
 pip install -U pillow
 pip install -U opencv-python
