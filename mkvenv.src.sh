@@ -1,7 +1,7 @@
 #! /bin/bash
 
 PYTHON_VENV_NAME=Jupyter
-PYTHON_VERSION=3.7.4
+PYTHON_VERSION=3.7.6
 
 pyenv virtualenvs | grep $PYTHON_VENV_NAME > /dev/null
 found=$?
